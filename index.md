@@ -9,5 +9,5 @@ My profiles on the web:
 
 If you are looking for my CV you find them here:
 
-* [English Version](cv_en_StefanHaider.pdf)
-* [German Version](cv_de_StefanHaider.pdf)
+* [English Version](/files/cv_en_StefanHaider.pdf)
+* [German Version](/files/cv_de_StefanHaider.pdf)
