@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Stefan Haider</title>
+    <link>https://www.haider.io/page/index.xml</link>
+    <description>Recent content in Pages on Stefan Haider</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>stefan@haider.io (Stefan Haider)</managingEditor>
+    <webMaster>stefan@haider.io (Stefan Haider)</webMaster>
+    <atom:link href="https://www.haider.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About me</title>
+      <link>https://www.haider.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>stefan@haider.io (Stefan Haider)</author>
+      <guid>https://www.haider.io/page/about/</guid>
+      <description>&lt;p&gt;My name is Stefan Haider.
+I&amp;rsquo;m currently finishing my Master in &amp;ldquo;Software Engineering and Internet Computing&amp;rdquo; at &lt;a href=&#34;http://www.tuwien.ac.at/en/&#34;&gt;Vienna University of Technology&lt;/a&gt;.
+Besides that I work as a .Net developer at &lt;a href=&#34;https://www.sba-research.org/&#34;&gt;SBA Research&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you want to know more feel free to contact me..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.haider.io/page/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>stefan@haider.io (Stefan Haider)</author>
+      <guid>https://www.haider.io/page/projects/</guid>
+      <description>&lt;p&gt;You can find my projects on my &lt;a href=&#34;https://github.com/haidelber&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;My &lt;a href=&#34;https://github.com/haidelber/BankDataDownloader&#34;&gt;Bank Data Downloader&lt;/a&gt; is available for installation &lt;a href=&#34;https://raw.githubusercontent.com/haidelber/BankDataDownloader/master/publish/setup.exe&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;A lot of university related stuff is also available on GitHub.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Résumé</title>
+      <link>https://www.haider.io/page/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>stefan@haider.io (Stefan Haider)</author>
+      <guid>https://www.haider.io/page/resume/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.haider.io/resume/resume_Haider_Stefan.pdf&#34;&gt;English Version&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.haider.io/resume/lebenslauf_Haider_Stefan.pdf&#34;&gt;German Version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
