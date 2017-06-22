@@ -6,8 +6,8 @@
     <description>Recent content in Posts on Stefan Haider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>stefan@haider.io (Stefan Haider)</managingEditor>
-    <webMaster>stefan@haider.io (Stefan Haider)</webMaster>
+    <managingEditor>website@haider.io (Stefan Haider)</managingEditor>
+    <webMaster>website@haider.io (Stefan Haider)</webMaster>
     <lastBuildDate>Sat, 25 Feb 2017 10:00:00 +0100</lastBuildDate>
     <atom:link href="https://www.haider.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>Welcome to my blog</title>
       <link>https://www.haider.io/post/2017-02-25-welcome-to-my-blog/</link>
       <pubDate>Sat, 25 Feb 2017 10:00:00 +0100</pubDate>
-      <author>stefan@haider.io (Stefan Haider)</author>
+      <author>website@haider.io (Stefan Haider)</author>
       <guid>https://www.haider.io/post/2017-02-25-welcome-to-my-blog/</guid>
       <description>&lt;p&gt;I set up this site to host my résumé and write about topics I encounter during my work as .Net developer.&lt;/p&gt;
 </description>
