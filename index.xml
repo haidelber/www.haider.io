@@ -2,14 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefan Haider</title>
-    <link>https://www.haider.io/index.xml</link>
+    <link>https://www.haider.io/</link>
     <description>Recent content on Stefan Haider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>website@haider.io (Stefan Haider)</managingEditor>
     <webMaster>website@haider.io (Stefan Haider)</webMaster>
     <lastBuildDate>Sat, 25 Feb 2017 10:00:00 +0100</lastBuildDate>
-    <atom:link href="https://www.haider.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.haider.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Welcome to my blog</title>
@@ -17,8 +19,7 @@
       <pubDate>Sat, 25 Feb 2017 10:00:00 +0100</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
       <guid>https://www.haider.io/post/2017-02-25-welcome-to-my-blog/</guid>
-      <description>&lt;p&gt;I set up this site to host my résumé and write about topics I encounter during my work as .Net developer.&lt;/p&gt;
-</description>
+      <description>I set up this site to host my résumé and write about topics I encounter during my work as .Net developer.</description>
     </item>
     
     <item>
@@ -27,12 +28,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
       <guid>https://www.haider.io/page/about/</guid>
-      <description>&lt;p&gt;My name is Stefan Haider.
-I&amp;rsquo;m currently finishing my Master in &amp;ldquo;Software Engineering and Internet Computing&amp;rdquo; at &lt;a href=&#34;http://www.tuwien.ac.at/en/&#34;&gt;Vienna University of Technology&lt;/a&gt;.
-Besides that I work as a .Net developer at &lt;a href=&#34;https://www.sba-research.org/&#34;&gt;SBA Research&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you want to know more feel free to contact me..&lt;/p&gt;
-</description>
+      <description>My name is Stefan Haider. I&amp;rsquo;m currently finishing my Master in &amp;ldquo;Software Engineering and Internet Computing&amp;rdquo; at Vienna University of Technology. Besides that I work as a .Net developer at SBA Research.
+If you want to know more feel free to contact me..</description>
     </item>
     
     <item>
@@ -41,18 +38,8 @@ Besides that I work as a .Net developer at &lt;a href=&#34;https://www.sba-resea
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
       <guid>https://www.haider.io/page/projects/</guid>
-      <description>&lt;p&gt;You can find my projects on my &lt;a href=&#34;https://github.com/haidelber&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;My &lt;a href=&#34;https://github.com/haidelber/BankDataDownloader&#34;&gt;Bank Data Downloader&lt;/a&gt; is available for installation &lt;a href=&#34;https://raw.githubusercontent.com/haidelber/BankDataDownloader/master/publish/setup.exe&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/haidelber/BankManager&#34;&gt;Bank Manager&lt;/a&gt;, the successor of this project is also available on GitHub. I don&amp;rsquo;t provide a installer yet.
-
-&lt;ul&gt;
-&lt;li&gt;With &lt;a href=&#34;https://www.finextra.com/blogposting/12668/psd2---what-changes&#34;&gt;PSD2&lt;/a&gt; on it&amp;rsquo;s way this project maybe loose it&amp;rsquo;s Selenium based download component.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;A lot of university related stuff is also available on GitHub.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>You can find my projects on my GitHub page.
+ My Bank Data Downloader is available for installation here. Bank Manager, the successor of this project is also available on GitHub. I don&amp;rsquo;t provide a installer yet.  With PSD2 on it&amp;rsquo;s way this project maybe loose it&amp;rsquo;s Selenium based download component.  A lot of university related stuff is also available on GitHub.  </description>
     </item>
     
     <item>
@@ -61,11 +48,7 @@ Besides that I work as a .Net developer at &lt;a href=&#34;https://www.sba-resea
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
       <guid>https://www.haider.io/page/resume/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.haider.io/resume/resume_Haider_Stefan.pdf&#34;&gt;English Version&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.haider.io/resume/lebenslauf_Haider_Stefan.pdf&#34;&gt;German Version&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> English Version German Version  </description>
     </item>
     
   </channel>

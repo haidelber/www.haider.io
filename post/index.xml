@@ -2,14 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Stefan Haider</title>
-    <link>https://www.haider.io/post/index.xml</link>
+    <link>https://www.haider.io/post/</link>
     <description>Recent content in Posts on Stefan Haider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>website@haider.io (Stefan Haider)</managingEditor>
     <webMaster>website@haider.io (Stefan Haider)</webMaster>
     <lastBuildDate>Sat, 25 Feb 2017 10:00:00 +0100</lastBuildDate>
-    <atom:link href="https://www.haider.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.haider.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Welcome to my blog</title>
@@ -17,8 +19,7 @@
       <pubDate>Sat, 25 Feb 2017 10:00:00 +0100</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
       <guid>https://www.haider.io/post/2017-02-25-welcome-to-my-blog/</guid>
-      <description>&lt;p&gt;I set up this site to host my résumé and write about topics I encounter during my work as .Net developer.&lt;/p&gt;
-</description>
+      <description>I set up this site to host my résumé and write about topics I encounter during my work as .Net developer.</description>
     </item>
     
   </channel>
