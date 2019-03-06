@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.haider.io/post/2017-02-25-welcome-to-my-blog/</loc>
+    <loc>https://haider.io/post/2017-02-25-welcome-to-my-blog/</loc>
     <lastmod>2017-02-25T10:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.haider.io/page/about/</loc>
+    <loc>https://haider.io/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://www.haider.io/categories/</loc>
+    <loc>https://haider.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.haider.io/tags/message/</loc>
-    <lastmod>2017-02-25T10:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.haider.io/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.haider.io/post/</loc>
+    <loc>https://haider.io/tags/message/</loc>
     <lastmod>2017-02-25T10:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.haider.io/page/projects/</loc>
+    <loc>https://haider.io/page/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.haider.io/page/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.haider.io/</loc>
+    <loc>https://haider.io/post/</loc>
     <lastmod>2017-02-25T10:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.haider.io/tags/</loc>
+    <loc>https://haider.io/page/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://haider.io/page/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://haider.io/</loc>
     <lastmod>2017-02-25T10:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.haider.io/tags/welcome/</loc>
+    <loc>https://haider.io/tags/</loc>
+    <lastmod>2017-02-25T10:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haider.io/tags/welcome/</loc>
     <lastmod>2017-02-25T10:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>

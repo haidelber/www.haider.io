@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefan Haider</title>
-    <link>https://www.haider.io/</link>
+    <link>https://haider.io/</link>
     <description>Recent content on Stefan Haider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,44 +10,44 @@
     <webMaster>website@haider.io (Stefan Haider)</webMaster>
     <lastBuildDate>Sat, 25 Feb 2017 10:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://www.haider.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://haider.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to my blog</title>
-      <link>https://www.haider.io/post/2017-02-25-welcome-to-my-blog/</link>
+      <link>https://haider.io/post/2017-02-25-welcome-to-my-blog/</link>
       <pubDate>Sat, 25 Feb 2017 10:00:00 +0100</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
-      <guid>https://www.haider.io/post/2017-02-25-welcome-to-my-blog/</guid>
+      <guid>https://haider.io/post/2017-02-25-welcome-to-my-blog/</guid>
       <description>I set up this site to host my résumé and write about topics I encounter during my work as .Net developer.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://www.haider.io/page/about/</link>
+      <link>https://haider.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
-      <guid>https://www.haider.io/page/about/</guid>
+      <guid>https://haider.io/page/about/</guid>
       <description>My name is Stefan Haider. I&amp;rsquo;m currently finishing my Master in &amp;ldquo;Software Engineering and Internet Computing&amp;rdquo; at Vienna University of Technology. Besides that I work as a .Net developer at SBA Research.
 If you want to know more feel free to contact me..</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://www.haider.io/page/projects/</link>
+      <link>https://haider.io/page/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
-      <guid>https://www.haider.io/page/projects/</guid>
+      <guid>https://haider.io/page/projects/</guid>
       <description>You can find my projects on my GitHub page.
  My Bank Data Downloader is available for installation here. Bank Manager, the successor of this project is also available on GitHub. I don&amp;rsquo;t provide a installer yet.  With PSD2 on it&amp;rsquo;s way this project maybe loose it&amp;rsquo;s Selenium based download component.  A lot of university related stuff is also available on GitHub.  </description>
     </item>
     
     <item>
       <title>Résumé</title>
-      <link>https://www.haider.io/page/resume/</link>
+      <link>https://haider.io/page/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
-      <guid>https://www.haider.io/page/resume/</guid>
+      <guid>https://haider.io/page/resume/</guid>
       <description> English Version German Version  </description>
     </item>
     
