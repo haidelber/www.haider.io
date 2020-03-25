@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Stefan Haider</title>
@@ -14,7 +14,7 @@
     
     
     <item>
-      <title>Message</title>
+      <title>message</title>
       <link>https://haider.io/tags/message/</link>
       <pubDate>Sat, 25 Feb 2017 10:00:00 +0100</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
@@ -23,7 +23,7 @@
     </item>
     
     <item>
-      <title>Welcome</title>
+      <title>welcome</title>
       <link>https://haider.io/tags/welcome/</link>
       <pubDate>Sat, 25 Feb 2017 10:00:00 +0100</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
