@@ -7,10 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>website@haider.io (Stefan Haider)</managingEditor>
-    <webMaster>website@haider.io (Stefan Haider)</webMaster>
-    
-	<atom:link href="https://haider.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>website@haider.io (Stefan Haider)</webMaster><atom:link href="https://haider.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

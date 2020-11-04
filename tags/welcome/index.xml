@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>website@haider.io (Stefan Haider)</managingEditor>
     <webMaster>website@haider.io (Stefan Haider)</webMaster>
-    <lastBuildDate>Sat, 25 Feb 2017 10:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://haider.io/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 25 Feb 2017 10:00:00 +0100</lastBuildDate><atom:link href="https://haider.io/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my blog</title>
       <link>https://haider.io/post/2017-02-25-welcome-to-my-blog/</link>

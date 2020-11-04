@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>website@haider.io (Stefan Haider)</managingEditor>
-    <webMaster>website@haider.io (Stefan Haider)</webMaster>
-    
-	<atom:link href="https://haider.io/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>website@haider.io (Stefan Haider)</webMaster><atom:link href="https://haider.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://haider.io/page/about/</link>
@@ -37,7 +33,7 @@ If you want to know more feel free to contact me..</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>website@haider.io (Stefan Haider)</author>
       <guid>https://haider.io/page/resume/</guid>
-      <description> English Version German Version  </description>
+      <description>If you want to know more about my professional or educational history check out my LinkedIn Profile.</description>
     </item>
     
   </channel>
